@@ -1,0 +1,82 @@
+@font-face {
+    font-family: 'Fraunces';
+    src: url('fonts/Fraunces.ttf');
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('fonts/PlusJakartaSans.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    padding: 16px 100px 80px;
+    background-color: #1E2229;
+}
+
+ul {
+    display: flex;
+    gap: 16px;
+    list-style-type: none;
+}
+
+ul li:hover {
+    color: #E07A5F;
+    cursor: pointer;
+}
+
+.logo-and-links {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    height: 300px;
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.hero-sign-up {
+    color: #FAF8F5;
+    background-color: #E07A5F;
+    width: 100px;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+
+.hero-sign-up:hover {
+    background-color: #C9654B;
+    cursor: pointer;
+}
+
+.hero-img {
+    width: 500px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+.heading {
+    font-family: 'Fraunces';
+    color: #FAF8F5;
+}
+
+.subtext {
+    font-family: 'PlusJakartaSans';
+    color: #A7A9BE;
+}
