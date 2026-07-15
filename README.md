@@ -39,3 +39,12 @@ This project was built to master the foundations of HTML structuring and complex
 1. A live Search bar utilizing a map API (like Mapbox or Google Maps) to display actual nearby coffee shops.
 2. An interactive form allowing users to submit speed test results directly to the site.
 3. Light / Dark mode toggle using local storage.
+
+---
+
+## Asset Credits
+
+* **Wi-Fi Icon:** [Illustration](https://unsplash.com/illustrations/a-wi-fi-router-illustration-is-shown-here-x-2bqiZ1ZRM) by [Public domain vectors](https://unsplash.com/@publicdomainvectors/illustrations) on [Unsplash](https://unsplash.com/illustrations)
+* **Power Outlet Icon:** [Illustration](https://unsplash.com/illustrations/power-strip-with-tangled-white-and-green-cords--XbZKslIX30) by [Public domain vectors](https://unsplash.com/@publicdomainvectors/illustrations) on [Unsplash](https://unsplash.com/illustrations)
+* **Decibel Meter Icon:** [Illustration](https://unsplash.com/illustrations/the-gauge-is-pointing-towards-the-middle-2kku__sQido) by [Public domain vectors](https://unsplash.com/@publicdomainvectors/illustrations) on [Unsplash](https://unsplash.com/illustrations)
+* **Coffee Mug Icon:** [Illustration](https://unsplash.com/illustrations/a-cup-of-coffee-with-steam-coming-out-of-it-VoL5aWy64LU) by [Yadhu](https://unsplash.com/@yadhu3/illustrations) on [Unsplash](https://unsplash.com/illustrations)
