@@ -21,6 +21,11 @@ header {
     background-color: #1E2229;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+}
+
 ul {
     display: flex;
     gap: 16px;
@@ -73,10 +78,49 @@ ul li:hover {
 
 .heading {
     font-family: 'Fraunces';
-    color: #FAF8F5;
 }
 
 .subtext {
     font-family: 'PlusJakartaSans';
+}
+
+.light-heading {
+    color: #FAF8F5;
+}
+
+.dark-heading {
+    color: #1E2229;
+}
+
+.light-subtext {
     color: #A7A9BE;
+}
+
+.dark-subtext {
+    color: #4A4E69;
+}
+
+.icons-main-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 32px 150px 64px;
+}
+
+.icons-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 32px;
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 200px;
+    gap: 8px;
+}
+
+.icon-img {
+    border-radius: 8px;
 }
