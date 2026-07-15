@@ -109,7 +109,7 @@ ul li:hover {
 
 .icons-container {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-top: 32px;
 }
 
@@ -122,5 +122,23 @@ ul li:hover {
 }
 
 .icon-img {
+    border: 3px solid #E07A5F;
     border-radius: 8px;
+}
+
+.testimonial {
+    display: flex;
+    flex-direction: column;
+    padding: 64px 150px;
+    background-color: #F0F2F5;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.author {
+    text-align: right;
+    color: #E07A5F;
+    font-weight: bold;
 }
