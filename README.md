@@ -6,6 +6,8 @@ Warmly is a conceptual landing page designed to solve a major real-world headach
 
 Rather than relying on generic reviews, Warmly presents a crowdsourced, vetted look at a café's actual working conditions so remote workers can plan their remote workdays with absolute confidence.
 
+**Live Demo:** [Warmly](https://carnocentaurus.github.io/warmly/)
+
 ---
 
 ## Layout & Key Features
